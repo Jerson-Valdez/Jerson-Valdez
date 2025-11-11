@@ -27,14 +27,16 @@
 
 ## GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jerson-Valdez)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerson-Valdez)
-
 <div align="center">
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jerson-Valdez)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerson-Valdez)
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jerson-Valdez)](https://github.com/Jerson-Valdez)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jerson-Valdez)](https://git.io/streak-stats)
+
 </div>
 
 ---
