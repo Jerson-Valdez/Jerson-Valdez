@@ -43,6 +43,8 @@
 
 ## Let's Connect!
 
+<i class="fa-brands fa-linkedin"></i>
+
 Feel free to reach out to me for project collaborations, discussions, or if you just want to chat about coding and tech. You can find me on [LinkedIn](#) and [Twitter](#).
 
 ---
