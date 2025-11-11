@@ -28,7 +28,7 @@
 ## GitHub Stats
 
 <div align="center">
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jerson-Valdez)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jerson-Valdez)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerson-Valdez)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jerson-Valdez)](https://github.com/Jerson-Valdez)
