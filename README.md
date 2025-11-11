@@ -1,3 +1,9 @@
+### My Contributions
+
+<img src="https://github-readme-stats.vercel.app/api/contributions/?username=YOUR_USERNAME&show_icons=true&theme=darcula&hide_border=true&title_color=007AFF&icon_color=007AFF" />
+
+---
+
 <h1 align="center">Hi 👋, I'm Jerson Patrick Valdez</h1>
 <h3 align="center">A College student of Bulacan State Universtiy who pursue Web and Mobile Application Development</h3>
 <h4 align="center"> Welcome to my GitHub profile!, Project development is not just a job; it's a hobby! I'm passionate about coding and creating projects in various languages. Let's dive deeper into my GitHub journey!</h4>
