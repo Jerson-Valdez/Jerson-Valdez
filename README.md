@@ -1,13 +1,6 @@
-# Jerson Valdez
-
----
-
-👋 Welcome to my GitHub profile! I'm Jerson Valdez, and project development is not just my job; it's a hobby! I'm passionate about coding and creating projects in various languages like JavaScript, Java, CSS, and HTML. I believe in consistent engagement and collaboration in the coding community. Let's dive deeper into my GitHub journey!
-
----
-
 <h1 align="center">Hi 👋, I'm Jerson Patrick Valdez</h1>
 <h3 align="center">A College student of Bulacan State Universtiy who pursue Web and Mobile Application Development</h3>
+<h4 align="center"> Welcome to my GitHub profile! I'm Jerson Valdez, and project development is not just my job; it's a hobby! I'm passionate about coding and creating projects in various languages. Let's dive deeper into my GitHub journey!</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerson-valdez" alt="jerson-valdez" /></a> </p>
 
