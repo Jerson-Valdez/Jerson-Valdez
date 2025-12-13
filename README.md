@@ -26,7 +26,7 @@
 <div align="center">
 
 | **Frontend** | **Backend & Database** | **Databases** | **Tools** | **Mobiles** |
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" height="50"/> | <img src="https://skillicons.dev/icons?i=php,nodejs,java" height="50"/> | <img src="https://skillicons.dev/icons?i=mysql,mssql,firebase" height="50"/> | <img src="https://skillicons.dev/icons?i=git,figma,framer" height="50"/> | <img src="https://skillicons.dev/icons?i=android" height="50"/> |
 
 </div>
