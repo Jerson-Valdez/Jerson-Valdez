@@ -27,7 +27,7 @@
 
 | **Frontend** | **Backend** | **Databases** | **Mobile** | **Tools** |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" height="50"/> | <img src="https://skillicons.dev/icons?i=php,nodejs,java" height="50"/> | <img src="https://skillicons.dev/icons?i=mysql,firebase,mssql" height="50"/> | <img src="https://skillicons.dev/icons?i=androidstudio" height="50"/> | <img src="https://skillicons.dev/icons?i=git,github,figma" height="50"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" height="50"/> | <img src="https://skillicons.dev/icons?i=php,nodejs,java" height="50"/> | <img src="https://skillicons.dev/icons?i=mysql,firebase" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="mssql"/> | <img src="https://skillicons.dev/icons?i=androidstudio,flutter" height="50"/> | <img src="https://skillicons.dev/icons?i=git,github,figma" height="50"/> |
 
 </div>
 
@@ -45,7 +45,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerson-Valdez&bg_color=141321&color=7f2b57&line=bc8cff&point=ffffff&hide_border=true" alt="Jerson's Activity Graph" />
 
-<img src="https://raw.githubusercontent.com/Jerson-Valdez/Jerson-Valdez/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Jerson-Valdez/Jerson-Valdez/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
