@@ -45,10 +45,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerson-Valdez&bg_color=141321&color=7f2b57&line=bc8cff&point=ffffff&hide_border=true" alt="Jerson's Activity Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jerson-Valdez&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-<br>
-
 ![Snake animation](https://github.com/Jerson-Valdez/Jerson-Valdez/blob/output/github-contribution-grid-snake.svg)
 
 </div>
