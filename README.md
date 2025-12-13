@@ -23,7 +23,7 @@
 
 ### 🛠️ Technical Skills
 
-<div align="center" dispplay="flex" flex-direction="row">
+<div align="center">
 
 | **Frontend** | **Backend** | **Databases** | **Mobile** | **Tools** |
 | :---: | :---: | :---: | :---: | :---: |
