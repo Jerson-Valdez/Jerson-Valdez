@@ -7,7 +7,7 @@
 
 ---
 
-## GitHub Stats
+## GitHub Stat
 
 <div align="center">
 
