@@ -43,7 +43,7 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Jerson-Valdez&theme=radical&hide_border=true" alt="streak graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerson-Valdez&bg_color=141321&color=7f2b57&line=bc8cff&point=ffffff&hide_border=true" alt="Jerson's Activity Graph" />
 
 </div>
 
