@@ -39,6 +39,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jerson-Valdez&theme=radical" alt="profile details" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=Jerson-Valdez&theme=radical&no-frame=true&column=6&margin-w=15&margin-h=15" alt="trophy" />
+
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerson-Valdez&bg_color=141321&color=7f2b57&line=bc8cff&point=ffffff&hide_border=true" alt="Jerson's Activity Graph" />
