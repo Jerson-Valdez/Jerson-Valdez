@@ -37,9 +37,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jerson-Valdez&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jerson-Valdez&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" loading="lazy" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerson-Valdez&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerson-Valdez&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" loading="lazy" />
 
 <br>
 
