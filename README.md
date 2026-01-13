@@ -37,11 +37,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerson-Valdez&theme=radical&hide_border=true" alt="Jerson's Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jerson-Valdez&theme=radical" alt="profile details" />
 
 <br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerson-Valdez&theme=radical&hide_border=true" alt="Jerson's Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerson-Valdez&bg_color=141321&color=7f2b57&line=bc8cff&point=ffffff&hide_border=true" alt="Jerson's Activity Graph" />
 
