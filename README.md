@@ -39,6 +39,10 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerson-Valdez&theme=radical&hide_border=true" alt="Jerson's Streak" />
 
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerson-Valdez&theme=radical&hide_border=true" alt="Jerson's Streak" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerson-Valdez&bg_color=141321&color=7f2b57&line=bc8cff&point=ffffff&hide_border=true" alt="Jerson's Activity Graph" />
 
 <img src="https://raw.githubusercontent.com/Jerson-Valdez/Jerson-Valdez/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
