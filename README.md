@@ -37,9 +37,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerson-Valdez&theme=radical&hide_border=true" alt="Jerson's Streak" loading="lazy" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerson-Valdez&theme=radical&hide_border=true" alt="Jerson's Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerson-Valdez&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" loading="lazy" />
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerson-Valdez&bg_color=141321&color=7f2b57&line=bc8cff&point=ffffff&hide_border=true" alt="Jerson's Activity Graph" />
+
+<img src="https://raw.githubusercontent.com/Jerson-Valdez/Jerson-Valdez/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 <br>
 
