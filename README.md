@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Jerson Patrick Valdez</h1>
-  <h3 align="center">🚀 Aspiring Web & Mobile Application Developer</h3>
+  <h3 align="center">🚀 Aspiring Web & Mobile Application Developer </h3>
   <p align="center"> IT Student at Bulacan State University</p>
   
   <p align="center">
