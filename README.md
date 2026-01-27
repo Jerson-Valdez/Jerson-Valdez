@@ -27,7 +27,7 @@
 
 | **Frontend** | **Backend** | **Databases** | **Mobile** | **Tools** | **Game** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwindcss,xml" height="50"/> | <img src="https://skillicons.dev/icons?i=php,nodejs,java" height="50"/> | <img src="https://skillicons.dev/icons?i=mysql,firebase" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="mssql"/> | <img src="https://skillicons.dev/icons?i=androidstudio" height="50"/> | <img src="https://skillicons.dev/icons?i=git,github,figma" height="50"/> | <img src="https://skillicons.dev/icons?i=unity,c#" height="50"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwindcss" height="50"/> <img src="https://img.shields.io/badge/XML-FFA500?style=for-the-badge&logo=xml&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=php,nodejs,java" height="50"/> | <img src="https://skillicons.dev/icons?i=mysql,firebase" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="mssql"/> | <img src="https://skillicons.dev/icons?i=androidstudio" height="50"/> | <img src="https://skillicons.dev/icons?i=git,github,figma" height="50"/> | <img src="https://skillicons.dev/icons?i=unity,c#" height="50"/> |
 
 </div>
 
