@@ -5,7 +5,7 @@
   
   <p align="center">
     <b>Passionate about logic, simplicity, and practicality.</b><br>
-    I turn coffee into code and ideas into reality. Project development isn't just a job for me; it's a lifestyle.
+    I turn coffee into code and trash ideas into reality. I belive, project development is a lifestyle.
   </p>
 
   <a href="https://jerson-valdez.vercel.app">
