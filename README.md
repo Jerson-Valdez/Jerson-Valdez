@@ -37,18 +37,13 @@
 
 <div align="center">
   <!-- General Stats & Streak Stats Side-by-Side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Jerson-Valdez&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Jerson's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jerson-Valdez&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Jerson's GitHub Stats" width="46%" />
   <img src="https://streak-stats.demolab.com/?user=Jerson-Valdez&theme=radical&hide_border=true" alt="Jerson's Contribution Streak" width="48%" />
 
   <br><br>
 
   <!-- Top Languages Compact Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerson-Valdez&theme=radical&layout=compact&hide_border=true" alt="Top Languages" width="60%" />
-
-  <br><br>
-
-  <!-- Custom Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerson-Valdez&bg_color=141321&color=7f2b57&line=bc8cff&point=ffffff&hide_border=true" alt="Jerson's Activity Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerson-Valdez&theme=radical&layout=compact&hide_border=true" alt="Top Languages" width="50%" />
 
   <br><br>
 
