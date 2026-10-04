@@ -39,7 +39,7 @@
   <!-- General Stats & Streak Stats Side-by-Side -->
   <img src="https://github-readme-stats.vercel.app/api?username=Jerson-Valdez&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Jerson's GitHub Stats" width="46%" />
   
-  <img src="https://streak-stats.demolab.com/?user=Jerson-Valdez&theme=radical&hide_border=true" alt="Jerson's Contribution Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Jerson-Valdez&theme=radical&hide_border=true" alt="Jerson's Contribution Streak" width="49%" />
   <!-- Top Languages Compact Card -->
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerson-Valdez&theme=radical&layout=compact&hide_border=true" alt="Top Languages" width="50%" />
