@@ -38,14 +38,13 @@
 <div align="center">
   <!-- General Stats & Streak Stats Side-by-Side -->
   <img src="https://github-readme-stats.vercel.app/api?username=Jerson-Valdez&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Jerson's GitHub Stats" width="46%" />
+  
   <img src="https://streak-stats.demolab.com/?user=Jerson-Valdez&theme=radical&hide_border=true" alt="Jerson's Contribution Streak" width="48%" />
-
-  <br><br>
-
   <!-- Top Languages Compact Card -->
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerson-Valdez&theme=radical&layout=compact&hide_border=true" alt="Top Languages" width="50%" />
 
-  <br><br>
+  <br>
 
   <!-- Contribution Grid Snake Animation -->
   <img src="https://raw.githubusercontent.com/Jerson-Valdez/Jerson-Valdez/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
