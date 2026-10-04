@@ -36,15 +36,24 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
+  <!-- General Stats & Streak Stats Side-by-Side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Jerson-Valdez&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Jerson's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Jerson-Valdez&theme=radical&hide_border=true" alt="Jerson's Contribution Streak" width="48%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jerson-Valdez&theme=radical" alt="profile details" />
+  <br><br>
 
-<br><br>
+  <!-- Top Languages Compact Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerson-Valdez&theme=radical&layout=compact&hide_border=true" alt="Top Languages" width="60%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerson-Valdez&bg_color=141321&color=7f2b57&line=bc8cff&point=ffffff&hide_border=true" alt="Jerson's Activity Graph"/>
+  <br><br>
 
-<img src="https://raw.githubusercontent.com/Jerson-Valdez/Jerson-Valdez/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <!-- Custom Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerson-Valdez&bg_color=141321&color=7f2b57&line=bc8cff&point=ffffff&hide_border=true" alt="Jerson's Activity Graph" width="100%" />
 
+  <br><br>
+
+  <!-- Contribution Grid Snake Animation -->
+  <img src="https://raw.githubusercontent.com/Jerson-Valdez/Jerson-Valdez/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
