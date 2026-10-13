@@ -47,7 +47,7 @@
   <br>
 
   <!-- Contribution Grid Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Jerson-Valdez/Jerson-Valdez/output/github-contribution-grid-snake-light.svg" alt="snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jerson-Valdez/Jerson-Valdez/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
