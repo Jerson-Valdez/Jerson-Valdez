@@ -1,11 +1,10 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Jerson Patrick Valdez </h1>
-  <h3 align="center">🚀 Aspiring Web & Mobile Application Developer </h3>
-  <p align="center"> IT Student at Bulacan State University</p>
+  <h1 align="center">Me me Bro!, I'm Jerson Patrick Valdez </h1>
+  <h3 align="center"> Aspiring Web & Mobile Application Developer </h3>
+  <p align="center"> IT Student at Bulacan State University </p>
   
   <p align="center">
-    <b>Passionate about logic, simplicity, and practicality.</b><br>
-    I turn coffee into code and trash ideas into reality. I believe, project development is a lifestyle.
+    I turn coffee into code and trash ideas into reality.
   </p>
 
   <a href="https://jerson-valdez.vercel.app">
@@ -53,5 +52,5 @@
 ---
 
 <div align="center">
-  <p><i>Thanks for visiting! Let's build something amazing together.🌟</i></p>
+  <p><i>If you're interested! Let's build something amazing together.</i></p>
 </div>
