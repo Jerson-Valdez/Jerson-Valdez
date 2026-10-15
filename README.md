@@ -53,5 +53,5 @@
 ---
 
 <div align="center">
-  <p><i>Thanks for visiting! Let's build something amazing together. 🌟</i></p>
+  <p><i>Thanks for visiting! Let's build something amazing together.🌟</i></p>
 </div>
