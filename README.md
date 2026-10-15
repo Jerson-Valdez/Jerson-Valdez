@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <!-- General Stats & Streak Stats Side-by-Side -->
