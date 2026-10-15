@@ -1,7 +1,5 @@
 <div align="center">
-  <h1 align="center">Me me Bro!, I'm Jerson Patrick Valdez </h1>
-  <h3 align="center"> Aspiring Web & Mobile Application Developer </h3>
-  <p align="center"> IT Student at Bulacan State University </p>
+  <h1 align="center">Me me Bro!, Jerson Patrick Valdez is my Name.</h1>
   
   <p align="center">
     I turn coffee into code and trash ideas into reality.
