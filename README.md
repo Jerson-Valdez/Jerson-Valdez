@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 align="center">Me me Bro!, Jerson Patrick Valdez is my Name.</h1>
+  <h1 align="center">Me me Bro!, Jerson Patrick Valdez is my Name</h1>
   
   <p align="center">
-    I turn coffee into code and trash ideas into reality.
+    I turn coffee into code and trash ideas into reality
   </p>
 
   <a href="https://jerson-valdez.vercel.app">
