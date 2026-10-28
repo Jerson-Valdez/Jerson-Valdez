@@ -40,7 +40,6 @@
   <!-- Top Languages Compact Card -->
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerson-Valdez&theme=radical&layout=compact&hide_border=true" alt="Top Languages" width="50%" />
-
   <br>
 
   <!-- Contribution Grid Snake Animation -->
