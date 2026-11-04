@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Jerson Patrick Valdez</h1>
+  <h1 align="center">Bro I'm, Jerson Patrick Valdez</h1>
   
   <p align="center">
     I turn coffee into code and trash ideas into reality
