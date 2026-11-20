@@ -38,7 +38,7 @@
 
   <!-- Top Languages Compact Card -->
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jerson-Valdez&theme=dark&layout=compact&hide_border=true" alt="Top Languages" width="35%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jerson-Valdez&theme=dark&layout=compact&hide_border=true" alt="Top Languages" width="38%" />
   
   <br><br>
 
