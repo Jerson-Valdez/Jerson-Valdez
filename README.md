@@ -35,8 +35,10 @@
 <div align="center">
   <!-- General Stats & Streak Stats Side-by-Side -->
   <img src="https://github-stats-extended.vercel.app/api?username=Jerson-Valdez&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Jerson's GitHub Stats" width="46%" />
+
   <!-- Top Languages Compact Card -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jerson-Valdez&theme=dark&layout=compact&hide_border=true" alt="Top Languages" width="60%" />
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jerson-Valdez&theme=dark&layout=compact&hide_border=true" alt="Top Languages" width="45%" />
   
   <br><br>
 
