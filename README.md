@@ -34,7 +34,7 @@
 
 <div align="center">
   <!-- General Stats & Streak Stats Side-by-Side -->
-  <img src="https://github-stats-extended.vercel.app/api?username=Jerson-Valdez&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Jerson's GitHub Stats" width="50%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Jerson-Valdez&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Jerson's GitHub Stats" width="50%" />
 
   <!-- Top Languages Compact Card -->
 
