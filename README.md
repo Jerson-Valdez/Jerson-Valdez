@@ -39,8 +39,6 @@
   <!-- Top Languages Compact Card -->
 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jerson-Valdez&theme=radical&layout=compact&hide_border=false" alt="Top Languages" width="38%" />
-  
-  <br><br>
 
   <!-- Contribution Grid Snake Animation -->
   <img src="https://raw.githubusercontent.com/Jerson-Valdez/Jerson-Valdez/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
